@@ -913,8 +913,8 @@ img {
 
   .footer-container {
     width: 1158px;
-    padding-left: 0;
-    padding-right: 0;
+    padding-left: 15px;
+    padding-right: 15px;
     gap: 0;
     flex-wrap: nowrap;
     align-items: baseline;
